@@ -22,8 +22,8 @@
 |SRR3414636_1|Контроль|20307147|17825380|1332692|735108|15757580|
 |SRR3414637_1|Контроль|20385570|17844858|1397650|710230|15736978|
 ## Анализ DESeq2
-![](/img_multi/Heat_map.png)
-![](/img_multi/plotMA.png)
-![](/img_multi/ncount10.png)
-![](/img_multi/ncount19.png)
-![](/img_multi/ncount109.png)
+![](/img_qual/Heat_map.png)
+![](/img_qual/plotMA.png)
+![](/img_qual/ncount10.png)
+![](/img_qual/ncount19.png)
+![](/img_qual/ncount109.png)
